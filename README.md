@@ -46,7 +46,6 @@ This repository is built on four core principles:
 
 > *A navigation algorithm is only as good as the benchmark that evaluates it.*
 
----
 
 ---
 
